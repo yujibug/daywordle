@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daywordle/static/css/main.f3ab5913.css",
+    "main.js": "/daywordle/static/js/main.b97b0403.js",
+    "static/js/787.88329844.chunk.js": "/daywordle/static/js/787.88329844.chunk.js",
+    "index.html": "/daywordle/index.html",
+    "main.f3ab5913.css.map": "/daywordle/static/css/main.f3ab5913.css.map",
+    "main.b97b0403.js.map": "/daywordle/static/js/main.b97b0403.js.map",
+    "787.88329844.chunk.js.map": "/daywordle/static/js/787.88329844.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3ab5913.css",
+    "static/js/main.b97b0403.js"
+  ]
+}
